@@ -78,11 +78,11 @@ function mostrar_resultado(texto_processado){
 }
 
 function mostrar_busca_vazia(){
-/*     resultado.style.display = "none";
+    resultado.style.display = "none";
     imagem.style.display = "block";
     textoPadrao1.style.display = "block";
     textoPadrao2.style.display = "block";
-    btn_copiar.style.display = "none"; */
+    btn_copiar.style.display = "none";
 }
 
 input.focus();
